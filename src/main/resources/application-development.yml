@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: companyhub
+
+logging:
+  level:
+    com.companyhub: DEBUG
