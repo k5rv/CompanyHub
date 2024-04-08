@@ -2,6 +2,19 @@ spring:
   application:
     name: companyhub
 
+github:
+  api:
+    url: https://api.github.com
+    token: token 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
+  repo:
+    owner: k5rv
+    name: CompanyHub
+
+companyhub:
+  path: src/main/resources/companies.csv
+  source: main
+  target: target
+
 logging:
   level:
-    com.com.companyhub: ERROR
+    com.companyhub: INFO
