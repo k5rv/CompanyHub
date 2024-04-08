@@ -5,7 +5,7 @@ spring:
 github:
   api:
     url: https://api.github.com
-    token: token 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
+    token: token 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
   repo:
     owner: k5rv
     name: CompanyHub
